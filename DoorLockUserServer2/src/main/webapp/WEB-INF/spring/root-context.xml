@@ -9,9 +9,9 @@
 		<!-- 드라이버 클래스 이름이 변경됨 -->
 		<property name="driverClassName" value="com.mysql.jdbc.Driver"></property>
 		<!-- 연결문자열에 log4jdbc가 추가됨 -->
-		<property name="url" value="jdbc:mysql://localhost:3306/myschool?useSSL=false&amp;serverTimezone=UTC"/>
-		<property name="username" value="root" />
-		<property name="password" value="kdh7148167!" />
+		<property name="url" value=""/>
+		<property name="username" value="" />
+		<property name="password" value="" />
 	</bean>
 	
 	<!-- 아파치 DBCP 설정 -->
